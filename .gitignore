@@ -1,0 +1,10 @@
+node_modules/
+dist/
+server/data/
+server/uploads/*
+!server/uploads/.gitkeep
+server/.env
+ADMIN_CREDENTIALS.txt
+*.log
+.DS_Store
+.vercel

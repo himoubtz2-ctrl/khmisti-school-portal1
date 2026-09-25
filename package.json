@@ -1,0 +1,14 @@
+{
+  "name": "khmisti-school-portal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Official trilingual portal for Mohamed Khemisti High School",
+  "scripts": {
+    "install:all": "npm ci --prefix server && npm ci --prefix client",
+    "build": "npm run build --prefix client",
+    "start": "node server/index.js",
+    "check:lang": "node scripts/check-lang.js",
+    "test:e2e": "node scripts/e2e.mjs"
+  }
+}

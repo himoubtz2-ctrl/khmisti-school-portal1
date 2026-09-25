@@ -1,0 +1,377 @@
+{
+  "topbar": {
+    "official": "Site officiel du Lycée Mohamed Khémisti",
+    "location": "Chelghoum Laïd · Mila · Algérie"
+  },
+  "nav": {
+    "home": "Accueil",
+    "announcements": "Annonces",
+    "news": "Actualités",
+    "programs": "Filières",
+    "schedule": "Emploi du temps",
+    "exams": "Examens",
+    "resources": "Ressources",
+    "about": "Le lycée",
+    "contact": "Contact",
+    "menu": "Ouvrir le menu de navigation"
+  },
+  "langs": {
+    "ar": "Arabe",
+    "fr": "Français",
+    "en": "Anglais",
+    "choose": "Choisir la langue"
+  },
+  "meta": {
+    "title": "Lycée Mohamed Khémisti",
+    "description": "Site officiel du Lycée Mohamed Khémisti à Chelghoum Laïd : annonces, emplois du temps, examens et ressources pédagogiques."
+  },
+  "theme": {
+    "toggle": "Apparence",
+    "toDark": "Passer en mode sombre",
+    "toLight": "Passer en mode clair",
+    "dark": "Mode sombre",
+    "light": "Mode clair"
+  },
+  "hero": {
+    "eyebrow": "Plateforme numérique officielle",
+    "sub": "",
+    "cta1": "Explorer le site",
+    "cta2": "Contacter l’administration",
+    "scroll": "Faites défiler pour découvrir"
+  },
+  "quick": {
+    "announcements": {
+      "t": "Annonces",
+      "s": "Dernières nouvelles de l'établissement"
+    },
+    "news": {
+      "t": "Actualités",
+      "s": "Activités et événements"
+    },
+    "schedule": {
+      "t": "Emploi du temps",
+      "s": "Horaire des cours"
+    },
+    "exams": {
+      "t": "Examens",
+      "s": "Devoirs et dates"
+    },
+    "resources": {
+      "t": "Ressources",
+      "s": "Cours et documents"
+    }
+  },
+  "categories": {
+    "important": "Important",
+    "academic": "Scolaire",
+    "exams": "Examens",
+    "activity": "Activité",
+    "culture": "Culture",
+    "sports": "Sport",
+    "general": "Général"
+  },
+  "sections": {
+    "announcements": {
+      "kicker": "Annonces",
+      "title": "Dernières annonces",
+      "lead": "Des informations importantes, organisées au même endroit.",
+      "all": "Voir toutes les annonces"
+    },
+    "programs": {
+      "kicker": "Filières",
+      "title": "Filières d'études",
+      "lead": "Les filières de formation disponibles à l'établissement."
+    },
+    "news": {
+      "kicker": "Actualités du lycée",
+      "title": "Actualités et activités",
+      "lead": "Un espace pour suivre la vie scolaire.",
+      "all": "Toutes les actualités"
+    },
+    "schedule": {
+      "kicker": "Emploi du temps",
+      "title": "Horaires des cours",
+      "lead": "Accès rapide aux emplois du temps des classes.",
+      "level": "Niveau",
+      "section": "Section",
+      "day": "Jour",
+      "subject": "Matière",
+      "time": "Heure",
+      "room": "Salle",
+      "empty": "Aucune séance publiée pour le moment."
+    },
+    "exams": {
+      "kicker": "Examens",
+      "title": "Devoirs et compositions",
+      "lead": "Dates, matières et salles des devoirs et examens.",
+      "subject": "Matière",
+      "date": "Date",
+      "room": "Salle",
+      "level": "Niveau",
+      "type": "Type",
+      "empty": "Aucun devoir programmé pour le moment."
+    },
+    "resources": {
+      "kicker": "Ressources numériques",
+      "title": "Ressources pédagogiques",
+      "lead": "Cours, résumés, exercices et anciens sujets.",
+      "subject": "Matière",
+      "level": "Niveau",
+      "download": "Télécharger",
+      "empty": "Aucune ressource publiée pour le moment."
+    },
+    "about": {
+      "kicker": "Le lycée",
+      "title": "Tout ce dont l'élève a besoin, au même endroit.",
+      "lead": "L’établissement publie ses annonces, emplois du temps, dates d’examens et documents pédagogiques dans un portail officiel unique et clair.",
+      "p1t": "Actualités officielles",
+      "p1s": "Consultez les annonces et les actualités publiées directement par l’administration.",
+      "p2t": "Horaire par niveau",
+      "p2s": "Filtrez les emplois du temps et retrouvez les heures et les salles.",
+      "p3t": "PDF téléchargeables",
+      "p3s": "Ouvrez et téléchargez les ressources pédagogiques publiées par l’administration."
+    },
+    "contact": {
+      "kicker": "Contact",
+      "title": "Envoyez-nous un message",
+      "lead": "Une question ou une suggestion ? Écrivez-nous, l'administration vous répondra.",
+      "name": "Nom complet",
+      "email": "E-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "sending": "Envoi...",
+      "ok": "Message envoyé. Merci !",
+      "err": "Impossible d'envoyer le message. Réessayez.",
+      "invalid": "Veuillez remplir tous les champs avec un e-mail valide."
+    }
+  },
+  "days": [
+    "Dimanche",
+    "Lundi",
+    "Mardi",
+    "Mercredi",
+    "Jeudi",
+    "Vendredi",
+    "Samedi"
+  ],
+  "examTypes": {
+    "devoir": "Devoir",
+    "examen": "Composition",
+    "exam": "Examen"
+  },
+  "examStatus": {
+    "upcoming": "À venir",
+    "done": "Terminé"
+  },
+  "tracks": {
+    "scientific": "Filière scientifique",
+    "literary": "Filière littéraire",
+    "languages": "Filière linguistique",
+    "economics": "Filière économique"
+  },
+  "stats": {
+    "announcements": "Annonces",
+    "news": "Actualités",
+    "programs": "Filières",
+    "resources": "Ressources",
+    "exams": "Examens"
+  },
+  "footer": {
+    "about": "Une plateforme numérique officielle du Lycée Mohamed Khémisti à Chelghoum Laïd, Mila — pour organiser l'information et les ressources et faciliter l'accès à tous.",
+    "links": "Liens",
+    "school": "L'établissement",
+    "credits": "Sources photographiques",
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue.",
+    "retry": "Réessayer",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "add": "Ajouter",
+    "close": "Fermer",
+    "back": "Retour",
+    "search": "Rechercher",
+    "skip": "Aller au contenu",
+    "confirmDelete": "Supprimer cet élément ? Cette action est irréversible.",
+    "yes": "Supprimer",
+    "no": "Annuler",
+    "empty": "Aucun élément pour le moment."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "lead": "Le lien demandé n’est pas disponible."
+  },
+  "admin": {
+    "title": "Administration",
+    "subtitle": "Zone restreinte — personnel autorisé uniquement.",
+    "key": "Clé d'accès",
+    "user": "Nom d'utilisateur",
+    "pass": "Mot de passe",
+    "login": "Se connecter",
+    "loginErr": "Accès refusé.",
+    "loggedAs": "Connecté en tant que",
+    "logout": "Se déconnecter",
+    "tabs": {
+      "overview": "Aperçu",
+      "analytics": "Analyses",
+      "announcements": "Annonces",
+      "news": "Actualités",
+      "programs": "Filières",
+      "schedule": "Emploi du temps",
+      "exams": "Examens",
+      "resources": "Ressources",
+      "messages": "Messages",
+      "media": "Médias",
+      "settings": "Paramètres"
+    },
+    "new": "Ajouter",
+    "addAnything": "Ajouter n'importe quoi",
+    "langStatus": "Langues",
+    "fillMissing": "Compléter les langues manquantes",
+    "needOneLang": "Au moins un texte est requis avant l'enregistrement.",
+    "langsOk": "Complètes",
+    "langsMissing": "Manquantes",
+    "allFilled": "Langues manquantes complétées.",
+    "firstItem": "Ajouter le premier élément",
+    "checkTitle": "Complétude des coordonnées de l'établissement",
+    "checkOk": "Complètes",
+    "checkMissing": "Manquantes",
+    "checkFill": "Remplir",
+    "check": {
+      "name": "Nom de l'établissement",
+      "welcome": "Texte d'accueil",
+      "address": "Adresse",
+      "contact": "Téléphone et e-mail",
+      "social": "Page Facebook",
+      "images": "Logo et photo"
+    },
+    "photosBuiltin": "Photos intégrées du site",
+    "fields": {
+      "title_ar": "Titre (arabe)",
+      "title_fr": "Titre (français)",
+      "title_en": "Titre (anglais)",
+      "body_ar": "Contenu (arabe)",
+      "body_fr": "Contenu (français)",
+      "body_en": "Contenu (anglais)",
+      "name_ar": "Nom (arabe)",
+      "name_fr": "Nom (français)",
+      "name_en": "Nom (anglais)",
+      "desc_ar": "Description (arabe)",
+      "desc_fr": "Description (français)",
+      "desc_en": "Description (anglais)",
+      "subject_ar": "Matière (arabe)",
+      "subject_fr": "Matière (français)",
+      "subject_en": "Matière (anglais)",
+      "category": "Catégorie",
+      "pinned": "Épinglé",
+      "image": "URL de l'image",
+      "level": "Niveau",
+      "section": "Section",
+      "day": "Jour",
+      "start_time": "Début",
+      "end_time": "Fin",
+      "room": "Salle",
+      "exam_type": "Type",
+      "exam_date": "Date",
+      "status": "Statut",
+      "file": "Fichier PDF",
+      "track": "Filière",
+      "order": "Ordre",
+      "current": "Mot de passe actuel",
+      "next": "Nouveau mot de passe",
+      "school_name_ar": "Nom du lycée (arabe)",
+      "school_name_fr": "Nom du lycée (français)",
+      "school_name_en": "Nom du lycée (anglais)",
+      "welcome_ar": "Texte de bienvenue (arabe)",
+      "welcome_fr": "Texte de bienvenue (français)",
+      "welcome_en": "Texte de bienvenue (anglais)",
+      "address_ar": "Adresse (arabe)",
+      "address_fr": "Adresse (français)",
+      "address_en": "Adresse (anglais)",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "facebook": "Page Facebook",
+      "logo": "Image du logo",
+      "photo": "Photo principale"
+    },
+    "stats": {
+      "unread": "Messages non lus",
+      "messages": "Messages"
+    },
+    "msg": {
+      "unread": "Non lu",
+      "read": "Lu",
+      "mark": "Marquer comme lu",
+      "reply": "Répondre par e-mail"
+    },
+    "mail": {
+      "enabled": "E-mail activé",
+      "disabled": "E-mail non configuré"
+    },
+    "pw": {
+      "change": "Changer le mot de passe",
+      "done": "Mot de passe mis à jour.",
+      "weak": "Le mot de passe doit contenir au moins 10 caractères avec lettres et chiffres.",
+      "bad": "Le mot de passe actuel est incorrect."
+    },
+    "upload": {
+      "add": "Téléverser un fichier",
+      "done": "Téléversé."
+    },
+    "media": {
+      "copy": "Copier l’URL de l’image",
+      "library": "Images téléversées",
+      "copied": "URL de l’image copiée.",
+      "copyFailed": "Impossible de copier l’URL.",
+      "deleted": "Image supprimée.",
+      "inUse": "Cette image est utilisée par le site ou une actualité et n’a pas été supprimée."
+    },
+    "saved": "Modifications enregistrées.",
+    "analytics": {
+      "subtitle": "Données internes et privées — les visiteurs-jours sont comptés par une empreinte qui change chaque jour.",
+      "range": "Période d’analyse",
+      "ranges": {
+        "7": "7 jours",
+        "30": "30 jours",
+        "90": "90 jours"
+      },
+      "visitors": "Visiteurs-jours anonymes",
+      "interactions": "Actions uniques par jour",
+      "sectionsViewed": "Vues des sections",
+      "downloads": "Téléchargements",
+      "rangeTrend": "tendance de la période sélectionnée",
+      "retry": "Recharger les analyses",
+      "traffic": "Activité dans le temps",
+      "trafficHelp": "Interactions uniques quotidiennes ; survolez ou activez un point pour afficher sa valeur.",
+      "eventTypes": "Activité par événement",
+      "eventsHelp": "Les comptes sont dédupliqués par visiteur et par jour.",
+      "languages": "Visiteurs-jours par langue",
+      "languagesHelp": "Empreintes quotidiennes distinctes regroupées selon la langue de la page ou de la section.",
+      "topSections": "Sections les plus visitées",
+      "topSectionsHelp": "Classement établi à partir des vues réelles.",
+      "topResources": "Ressources les plus téléchargées",
+      "topResourcesHelp": "Les téléchargements ne sont comptés que si les analyses sont autorisées.",
+      "selectedRange": "Période sélectionnée",
+      "allTime": "Total",
+      "noResources": "Aucun téléchargement de ressource n’a encore été enregistré.",
+      "empty": "Aucune analyse n’est encore enregistrée pour cette période.",
+      "privacyTitle": "Confidentialité intégrée",
+      "privacyText": "Aucun cookie visiteur, aucun traceur tiers et aucune adresse IP brute. L’empreinte quotidienne change chaque jour et les visiteurs qui envoient DNT/GPC ne sont pas enregistrés.",
+      "retention": "Les détails sont conservés {days} jours.",
+      "updated": "Mis à jour {time}",
+      "events": {
+        "view": "Visites de page",
+        "section_view": "Vues de sections",
+        "lang_switch": "Changements de langue",
+        "resource_download": "Téléchargements",
+        "contact_submit": "Messages",
+        "cta_click": "Clics sur les boutons"
+      }
+    }
+  }
+}

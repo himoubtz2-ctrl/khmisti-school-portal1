@@ -1,0 +1,377 @@
+{
+  "topbar": {
+    "official": "Official website of Mohamed Khemisti High School",
+    "location": "Chelghoum Laid · Mila · Algeria"
+  },
+  "nav": {
+    "home": "Home",
+    "announcements": "Announcements",
+    "news": "News",
+    "programs": "Programs",
+    "schedule": "Schedule",
+    "exams": "Exams",
+    "resources": "Resources",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Open navigation menu"
+  },
+  "langs": {
+    "ar": "Arabic",
+    "fr": "French",
+    "en": "English",
+    "choose": "Choose language"
+  },
+  "meta": {
+    "title": "Mohamed Khémisti High School",
+    "description": "Official portal for announcements, schedules, exams and learning resources at Mohamed Khémisti High School in Chelghoum Laïd."
+  },
+  "theme": {
+    "toggle": "Appearance",
+    "toDark": "Switch to dark mode",
+    "toLight": "Switch to light mode",
+    "dark": "Dark mode",
+    "light": "Light mode"
+  },
+  "hero": {
+    "eyebrow": "Official Digital Platform",
+    "sub": "",
+    "cta1": "Explore the site",
+    "cta2": "Contact administration",
+    "scroll": "Scroll to discover"
+  },
+  "quick": {
+    "announcements": {
+      "t": "Announcements",
+      "s": "Latest school updates"
+    },
+    "news": {
+      "t": "News",
+      "s": "Activities and events"
+    },
+    "schedule": {
+      "t": "Schedule",
+      "s": "Class timetable"
+    },
+    "exams": {
+      "t": "Exams",
+      "s": "Tests and timetables"
+    },
+    "resources": {
+      "t": "Resources",
+      "s": "Lessons and documents"
+    }
+  },
+  "categories": {
+    "important": "Important",
+    "academic": "Academic",
+    "exams": "Exams",
+    "activity": "Activity",
+    "culture": "Culture",
+    "sports": "Sports",
+    "general": "General"
+  },
+  "sections": {
+    "announcements": {
+      "kicker": "Announcements",
+      "title": "Latest announcements",
+      "lead": "Important information, organized in one place.",
+      "all": "View all announcements"
+    },
+    "programs": {
+      "kicker": "Academic Programs",
+      "title": "Study streams",
+      "lead": "Training fields available at the school."
+    },
+    "news": {
+      "kicker": "School News",
+      "title": "News and activities",
+      "lead": "A space for school life updates.",
+      "all": "All news"
+    },
+    "schedule": {
+      "kicker": "Schedule",
+      "title": "Class timetable",
+      "lead": "Quick access to class schedules.",
+      "level": "Level",
+      "section": "Section",
+      "day": "Day",
+      "subject": "Subject",
+      "time": "Time",
+      "room": "Room",
+      "empty": "No classes published yet."
+    },
+    "exams": {
+      "kicker": "Exams",
+      "title": "Tests and examinations",
+      "lead": "Dates, subjects and rooms for tests and exams.",
+      "subject": "Subject",
+      "date": "Date",
+      "room": "Room",
+      "level": "Level",
+      "type": "Type",
+      "empty": "No tests scheduled yet."
+    },
+    "resources": {
+      "kicker": "Digital Resources",
+      "title": "Learning resources",
+      "lead": "Lessons, summaries, exercises and past papers.",
+      "subject": "Subject",
+      "level": "Level",
+      "download": "Download",
+      "empty": "No resources published yet."
+    },
+    "about": {
+      "kicker": "About the School",
+      "title": "Everything a student needs, in one place.",
+      "lead": "The school publishes announcements, timetables, examination dates and teaching documents through one clear official portal.",
+      "p1t": "Official updates",
+      "p1s": "Read announcements and news published directly by the school administration.",
+      "p2t": "Timetable by level",
+      "p2s": "Filter class schedules and find session times and rooms.",
+      "p3t": "Downloadable PDFs",
+      "p3s": "Open and download learning resources published by the administration."
+    },
+    "contact": {
+      "kicker": "Contact",
+      "title": "Send us a message",
+      "lead": "A question or a suggestion? Write to us and the administration will reply.",
+      "name": "Full name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "ok": "Message sent. Thank you!",
+      "err": "Could not send the message. Please try again.",
+      "invalid": "Please fill all fields with a valid email."
+    }
+  },
+  "days": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "examTypes": {
+    "devoir": "Test",
+    "examen": "Exam",
+    "exam": "Examination"
+  },
+  "examStatus": {
+    "upcoming": "Upcoming",
+    "done": "Done"
+  },
+  "tracks": {
+    "scientific": "Science track",
+    "literary": "Literary track",
+    "languages": "Language track",
+    "economics": "Economics track"
+  },
+  "stats": {
+    "announcements": "Announcements",
+    "news": "News",
+    "programs": "Programs",
+    "resources": "Resources",
+    "exams": "Exams"
+  },
+  "footer": {
+    "about": "An official digital platform for Mohamed Khemisti High School in Chelghoum Laid, Mila — gathering information and resources to make access easier for everyone.",
+    "links": "Links",
+    "school": "School",
+    "credits": "Photography sources",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong.",
+    "retry": "Retry",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "add": "Add",
+    "close": "Close",
+    "back": "Back",
+    "search": "Search",
+    "skip": "Skip to content",
+    "confirmDelete": "Delete this item? This cannot be undone.",
+    "yes": "Delete",
+    "no": "Cancel",
+    "empty": "No items yet."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "lead": "The requested link is not available."
+  },
+  "admin": {
+    "title": "Administration",
+    "subtitle": "Restricted area — authorized staff only.",
+    "key": "Access key",
+    "user": "Username",
+    "pass": "Password",
+    "login": "Sign in",
+    "loginErr": "Access denied.",
+    "loggedAs": "Signed in as",
+    "logout": "Sign out",
+    "tabs": {
+      "overview": "Overview",
+      "analytics": "Analytics",
+      "announcements": "Announcements",
+      "news": "News",
+      "programs": "Programs",
+      "schedule": "Schedule",
+      "exams": "Exams",
+      "resources": "Resources",
+      "messages": "Messages",
+      "media": "Media",
+      "settings": "Settings"
+    },
+    "new": "Add new",
+    "addAnything": "Add anything",
+    "langStatus": "Languages",
+    "fillMissing": "Fill missing languages",
+    "needOneLang": "At least one text is required before saving.",
+    "langsOk": "Complete",
+    "langsMissing": "Missing",
+    "allFilled": "Missing languages filled.",
+    "firstItem": "Add the first one",
+    "checkTitle": "School details checklist",
+    "checkOk": "Complete",
+    "checkMissing": "Missing",
+    "checkFill": "Fill it",
+    "check": {
+      "name": "School name",
+      "welcome": "Welcome text",
+      "address": "Address",
+      "contact": "Phone and email",
+      "social": "Facebook page",
+      "images": "Logo and photo"
+    },
+    "photosBuiltin": "Built-in site photos",
+    "fields": {
+      "title_ar": "Title (Arabic)",
+      "title_fr": "Title (French)",
+      "title_en": "Title (English)",
+      "body_ar": "Content (Arabic)",
+      "body_fr": "Content (French)",
+      "body_en": "Content (English)",
+      "name_ar": "Name (Arabic)",
+      "name_fr": "Name (French)",
+      "name_en": "Name (English)",
+      "desc_ar": "Description (Arabic)",
+      "desc_fr": "Description (French)",
+      "desc_en": "Description (English)",
+      "subject_ar": "Subject (Arabic)",
+      "subject_fr": "Subject (French)",
+      "subject_en": "Subject (English)",
+      "category": "Category",
+      "pinned": "Pinned",
+      "image": "Image URL",
+      "level": "Level",
+      "section": "Section",
+      "day": "Day",
+      "start_time": "Start",
+      "end_time": "End",
+      "room": "Room",
+      "exam_type": "Type",
+      "exam_date": "Date",
+      "status": "Status",
+      "file": "PDF file",
+      "track": "Track",
+      "order": "Order",
+      "current": "Current password",
+      "next": "New password",
+      "school_name_ar": "School name (Arabic)",
+      "school_name_fr": "School name (French)",
+      "school_name_en": "School name (English)",
+      "welcome_ar": "Welcome text (Arabic)",
+      "welcome_fr": "Welcome text (French)",
+      "welcome_en": "Welcome text (English)",
+      "address_ar": "Address (Arabic)",
+      "address_fr": "Address (French)",
+      "address_en": "Address (English)",
+      "phone": "Phone",
+      "email": "Email",
+      "facebook": "Facebook page",
+      "logo": "Logo image",
+      "photo": "Hero photo"
+    },
+    "stats": {
+      "unread": "Unread messages",
+      "messages": "Messages"
+    },
+    "msg": {
+      "unread": "Unread",
+      "read": "Read",
+      "mark": "Mark as read",
+      "reply": "Reply by email"
+    },
+    "mail": {
+      "enabled": "Mail enabled",
+      "disabled": "Mail not configured"
+    },
+    "pw": {
+      "change": "Change password",
+      "done": "Password updated.",
+      "weak": "Password must be at least 10 characters with letters and digits.",
+      "bad": "Current password is incorrect."
+    },
+    "upload": {
+      "add": "Upload file",
+      "done": "Uploaded."
+    },
+    "media": {
+      "copy": "Copy image URL",
+      "library": "Uploaded images",
+      "copied": "Image URL copied.",
+      "copyFailed": "Could not copy the image URL.",
+      "deleted": "Image deleted.",
+      "inUse": "This image is used by the site or a news item and was not deleted."
+    },
+    "saved": "Changes saved.",
+    "analytics": {
+      "subtitle": "Private, first-party audience data — visitor-days are counted with a hash that rotates daily.",
+      "range": "Analytics period",
+      "ranges": {
+        "7": "7 days",
+        "30": "30 days",
+        "90": "90 days"
+      },
+      "visitors": "Visitor-days",
+      "interactions": "Unique daily actions",
+      "sectionsViewed": "Section views",
+      "downloads": "Resource downloads",
+      "rangeTrend": "trend for the selected period",
+      "retry": "Reload analytics",
+      "traffic": "Activity over time",
+      "trafficHelp": "Daily unique interactions; hovering or focusing a point reveals its value.",
+      "eventTypes": "Activity by event",
+      "eventsHelp": "Counts are de-duplicated per visitor and day.",
+      "languages": "Visitor-days by language",
+      "languagesHelp": "Distinct daily hashes grouped by the language of the page or section view.",
+      "topSections": "Most visited sections",
+      "topSectionsHelp": "Ranked from real section-view events.",
+      "topResources": "Most downloaded resources",
+      "topResourcesHelp": "Downloads recorded only when analytics is permitted.",
+      "selectedRange": "Selected period",
+      "allTime": "All time",
+      "noResources": "No resource downloads have been recorded yet.",
+      "empty": "No analytics recorded for this period yet.",
+      "privacyTitle": "Privacy built in",
+      "privacyText": "No visitor cookies, no third-party trackers and no raw IP storage. Daily visitor hashes rotate every day, and visitors who send DNT/GPC are not recorded.",
+      "retention": "Detailed records are retained for {days} days.",
+      "updated": "Updated {time}",
+      "events": {
+        "view": "Page visits",
+        "section_view": "Section views",
+        "lang_switch": "Language switches",
+        "resource_download": "Downloads",
+        "contact_submit": "Messages",
+        "cta_click": "Button clicks"
+      }
+    }
+  }
+}
