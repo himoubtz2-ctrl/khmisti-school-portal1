@@ -1,0 +1,1 @@
+# khmisti-school-portal1
