@@ -3,7 +3,7 @@ services:
     name: khmisti-school-portal
     runtime: node
     plan: free
-    buildCommand: npm ci --prefix server && npm ci --prefix client && npm run build
+    buildCommand: npm install --prefix server && npm install --prefix client && npm run build --prefix client
     startCommand: node server/index.js
     healthCheckPath: /api/health
     envVars:
@@ -25,8 +25,6 @@ services:
         sync: false
       - key: MAX_UPLOAD_MB
         value: "10"
-      # These are reserved for the permanent Turso/Supabase adapter. The
-      # current package intentionally does not silently use local disk as durable storage.
       - key: TURSO_DATABASE_URL
         sync: false
       - key: TURSO_AUTH_TOKEN
