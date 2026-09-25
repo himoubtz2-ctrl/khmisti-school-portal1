@@ -3,7 +3,7 @@ services:
     name: khmisti-school-portal
     runtime: node
     plan: free
-    buildCommand: npm install --prefix server && npm install --prefix client && npm run build --prefix client
+    buildCommand: npm install --prefix server && npm install --prefix client --include=dev && npm run build --prefix client
     startCommand: node server/index.js
     healthCheckPath: /api/health
     envVars:
